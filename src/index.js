@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import IndexPage from './pages/IndexPage';
 import * as serviceWorker from './serviceWorker';
+import {  HashRouter as Router} from "react-router-dom";
+
+     function Home(){
+       return(
+         <Router>
+           <IndexPage></IndexPage>
+        </Router>
+       )
+     }
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <Home/>,
   document.getElementById('root')
 );
 
