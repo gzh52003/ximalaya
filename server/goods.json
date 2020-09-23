@@ -1,0 +1,1596 @@
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc190e"),
+    "img_url": ["http://localhost:2003/uploads/goods/d880ff45a9a3b70527770e01521fc939.jpg"],
+    "product_id": 12609,
+    "product_name": "小米10 至尊版",
+    "product_brief": "120X 变焦/120W秒充/120Hz屏幕",
+    "product_price": "5299",
+    "product_org_price": "5299",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=12609",
+        "log_code": "31pchomepagelist_eight_product000001#t=product&act=product&page=homepage&pid=12609&page_id=10530&bid=3480926.3"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1911"),
+    "img_url": ["http://localhost:2003/uploads/goods/3b19bf0e7e599c1bbbce510fb0dbc8bc.jpg"],
+    "product_id": 12605,
+    "product_name": "Redmi K30 至尊版",
+    "product_brief": "120Hz弹出全面屏，天玑1000+旗舰处理器",
+    "product_price": "1999",
+    "product_org_price": "1999",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=12605",
+        "log_code": "31pchomepagelist_eight_product001001#t=product&act=product&page=homepage&pid=12605&page_id=10530&bid=3480926.4"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1914"),
+    "img_url": ["http://localhost:2003/uploads/goods/237942bfcaf2bbe82fbe966c2f584d69.jpg"],
+    "product_id": 12517,
+    "product_name": "腾讯黑鲨3S ",
+    "product_brief": "骁龙865处理器，120Hz刷新率",
+    "product_price": "3999",
+    "product_org_price": "3999",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=12517",
+        "log_code": "31pchomepagelist_eight_product002001#t=product&act=product&page=homepage&pid=12517&page_id=10530&bid=3480926.5"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc191d"),
+    "img_url": ["http://localhost:2003/uploads/goods/0099822e42b4428cb25c4cdebc6ca53d.jpg"],
+    "product_id": 10000214,
+    "product_name": "小米10",
+    "product_brief": "骁龙865/1亿像素相机",
+    "product_price": "3699",
+    "product_org_price": "3999",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10000214",
+        "log_code": "31pchomepagelist_eight_product005001#t=product&act=product&page=homepage&pid=10000214&page_id=10530&bid=3480926.8"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1920"),
+    "img_url": ["http://localhost:2003/uploads/goods/c1aafa589258a4d9fdf49831b457418d.jpg"],
+    "product_id": 10000223,
+    "product_name": " Redmi K30 Pro",
+    "product_brief": "双模5G，骁龙865，弹出全面屏",
+    "product_price": "2699",
+    "product_org_price": "2699",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10000223",
+        "log_code": "31pchomepagelist_eight_product006001#t=product&act=product&page=homepage&pid=10000223&page_id=10530&bid=3480926.9"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1923"),
+    "img_url": ["http://localhost:2003/uploads/goods/7cfdbce40301133a287e9e57faa37bdf.jpg"],
+    "product_id": 11763,
+    "product_name": "Redmi K30 Pro 变焦版",
+    "product_brief": "双模5G，骁龙865，弹出全面屏",
+    "product_price": "3799",
+    "product_org_price": "3799",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11763",
+        "log_code": "31pchomepagelist_eight_product007001#t=product&act=product&page=homepage&pid=11763&page_id=10530&bid=3480926.10"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1926"),
+    "img_url": ["http://localhost:2003/uploads/goods/ef4c68fed730ec26bf2fa0ff620975c5.jpg"],
+    "product_id": 10650,
+    "product_name": "Redmi 红米电视 70英寸 ",
+    "product_brief": "70英寸震撼巨屏，4K画质，细腻如真",
+    "product_price": "2729",
+    "product_org_price": "3799",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/redmitv/70",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.4&pid=10650"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1929"),
+    "img_url": ["http://localhost:2003/uploads/goods/8b3fe3a07ef69fb4c959e39c768c7525.jpg"],
+    "product_id": 10126,
+    "product_name": "小米全面屏电视E32C",
+    "product_brief": "全面屏设计，人工智能系统",
+    "product_price": "699",
+    "product_org_price": "899",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/mitvall-screen/e32c/",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.5&pid=10126"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc192c"),
+    "img_url": ["http://localhost:2003/uploads/goods/ef6b4e9b9151849b3b1fb1dbf069c6ed.jpg"],
+    "product_id": 9668,
+    "product_name": "小米全面屏电视E55A",
+    "product_brief": "全面屏设计，人工智能语音",
+    "product_price": "1799",
+    "product_org_price": "1999",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/mitvall-screen/e55a/",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.6&pid=9668"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc192f"),
+    "img_url": ["https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b911be4c2f156bb6e4cf367c6080045.jpg"],
+    "product_id": 9183,
+    "product_name": "米家空调",
+    "product_brief": "出众静音，快速制冷热",
+    "product_price": "1499",
+    "product_org_price": "1799",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/aircondition/f3w1/",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.7&pid=9183"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1932"),
+    "img_url": ["http://localhost:2003/uploads/goods/ec20453216dcd42f982cffe5fdbc3115.jpg"],
+    "product_id": 9963,
+    "product_name": "米家互联网洗烘一体机 Pro 10kg",
+    "product_brief": "智能洗烘，省心省力",
+    "product_price": "2999",
+    "product_org_price": "2999",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9963",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=product&page=homepage&pid=9963&page_id=10530&bid=3480938.8"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1935"),
+    "img_url": ["http://localhost:2003/uploads/goods/b8c63a2024528fe5410ebe669b7d2407.jpg"],
+    "product_id": 9509,
+    "product_name": "Redmi全自动波轮洗衣机1A 8kg",
+    "product_brief": "一键操作，父母都爱用",
+    "product_price": "899",
+    "product_org_price": "899",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9509",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=product&page=homepage&pid=9509&page_id=10530&bid=3480938.9"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1938"),
+    "img_url": ["http://localhost:2003/uploads/goods/cd2aa2dcad6440b469c22e27db9b6236.jpg"],
+    "product_id": 10253,
+    "product_name": "15.6\" 四核i7 16G 独显 512G",
+    "product_brief": "全面均衡的国民轻薄本",
+    "product_price": "4899",
+    "product_org_price": "4899",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10253",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=product&page=homepage&pid=10253&page_id=10530&bid=3480938.10"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc193b"),
+    "img_url": ["http://localhost:2003/uploads/goods/74e573c4c0d89048392d14831cc507d5.jpg"],
+    "product_id": 10000142,
+    "product_name": "Air 13.3\" 2019款 ",
+    "product_brief": "新一代独立显卡",
+    "product_price": "5699",
+    "product_org_price": "5999",
+    "show_price_qi": true,
+    "action": {
+        "type": "url",
+        "path": "http://www.mi.com/mibook/air13-2019",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.11&pid=10000142"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc193e"),
+    "img_url": ["http://localhost:2003/uploads/goods/3483b4ec83f3d085c567633f2edef1c1.jpg"],
+    "product_id": 8041,
+    "product_name": "小米电视4C 32英寸",
+    "product_brief": "高清液晶屏，人工智能系统",
+    "product_price": "699",
+    "product_org_price": "799",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/mitv4c/32",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.13&pid=8041"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1941"),
+    "img_url": ["http://localhost:2003/uploads/goods/f193daba3989eadac5e13ae102b91582.jpg"],
+    "product_id": 10909,
+    "product_name": "全面屏电视 55英寸E55X",
+    "product_brief": "潮流全面屏设计",
+    "product_price": "1799",
+    "product_org_price": "1999",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10909",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=10909&page_id=10530&bid=3480938.14"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1944"),
+    "img_url": ["http://localhost:2003/uploads/goods/9d8674cd21c486feff5328772ab9cf01.jpg"],
+    "product_id": 10764,
+    "product_name": "小米电视4A 70英寸\t",
+    "product_brief": "大屏更享受",
+    "product_price": "2999",
+    "product_org_price": "3999",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10764",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=10764&page_id=10530&bid=3480938.15"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1947"),
+    "img_url": ["http://localhost:2003/uploads/goods/8156dec11073b1f98db8e4b7598262a4.jpg"],
+    "product_id": 6850,
+    "product_name": "小米电视4C 43英寸",
+    "product_brief": "FHD全高清屏，钢琴烤漆",
+    "product_price": "1099",
+    "product_org_price": "1399",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/mitv4c/43/",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.16&pid=6850"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc194a"),
+    "img_url": ["https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e2127506fd2209f3115828404269d45.jpg"],
+    "product_id": 8993,
+    "product_name": "小米电视4S 75英寸",
+    "product_brief": "4K HDR，人工智能语音",
+    "product_price": "4299",
+    "product_org_price": "5999",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/mitv4s/75/",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.17&pid=8993"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc194d"),
+    "img_url": ["http://localhost:2003/uploads/goods/6a3d09cb5b895f8c3706f513552cd53d.jpg"],
+    "product_id": 10911,
+    "product_name": "小米全面屏电视65英寸 E65C",
+    "product_brief": "震撼大屏，时尚全面屏",
+    "product_price": "2699",
+    "product_org_price": "3099",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10911",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=product&page=homepage&pid=10911&page_id=10530&bid=3480938.18"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1950"),
+    "img_url": ["http://localhost:2003/uploads/goods/8b3fe3a07ef69fb4c959e39c768c7525.jpg"],
+    "product_id": 10126,
+    "product_name": "小米全面屏电视E32C",
+    "product_brief": "全面屏设计，人工智能系统",
+    "product_price": "699",
+    "product_org_price": "899",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/mitvall-screen/e32c/",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.19&pid=10126"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1953"),
+    "img_url": ["http://localhost:2003/uploads/goods/0e7eee530e4a103f2f5a0937a14bed53.jpg"],
+    "product_id": 9689,
+    "product_name": "小米壁画电视 65英寸",
+    "product_brief": "壁画外观，全面屏，远场语音",
+    "product_price": "6999",
+    "product_org_price": "6999",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/arttv/",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=webview&page=homepage&page_id=10530&bid=3480938.20&pid=9689"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1956"),
+    "img_url": ["http://localhost:2003/uploads/goods/011dd8493ad62f3793dbb63d9fbd3bc0.jpg"],
+    "product_id": 10000159,
+    "product_name": "小米「小爱老师」",
+    "product_brief": "英语提分利器",
+    "product_price": "499",
+    "product_org_price": "499",
+    "show_price_qi": true,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/aiteacher-wifi/",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.4&pid=10000159"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1959"),
+    "img_url": ["http://localhost:2003/uploads/goods/f0914c60fa1ab807972541b4e2b1a4cd.jpg"],
+    "product_id": 12147,
+    "product_name": "小米智能门锁 E",
+    "product_brief": "告别钥匙，畅享便捷生活",
+    "product_price": "999",
+    "product_org_price": "999",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=12147",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=12147&page_id=10530&bid=3480939.5"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc195c"),
+    "img_url": ["http://localhost:2003/uploads/goods/e7c6e79433c883e1a022ec21402c1679.jpg"],
+    "product_id": 10015,
+    "product_name": "小米小爱音箱 Play",
+    "product_brief": "听音乐、语音遥控家电",
+    "product_price": "99",
+    "product_org_price": "169",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/aispeaker-play/",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.6&pid=10015"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc195f"),
+    "img_url": ["http://localhost:2003/uploads/goods/44a30f0da2aacb66a0f896293ebc703f.jpg"],
+    "product_id": 9536,
+    "product_name": "小爱音箱万能遥控版",
+    "product_brief": "传统家电秒变智能",
+    "product_price": "149",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/aispeaker-control/",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.7&pid=9536"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1962"),
+    "img_url": ["http://localhost:2003/uploads/goods/b42e49c6c0208f2de5a2f7a491a3af46.jpg"],
+    "product_id": 9990,
+    "product_name": "米家电饭煲4L",
+    "product_brief": "890W 立体加热 ",
+    "product_price": "269",
+    "product_org_price": "299",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9990",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=product&page=homepage&pid=9990&page_id=10530&bid=3480939.8"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1965"),
+    "img_url": ["http://localhost:2003/uploads/goods/e850fa029579ba886e3d5c81f00ae534.jpg"],
+    "product_id": 9997,
+    "product_name": "小米手环4",
+    "product_brief": "大屏彩显，20天超长续航",
+    "product_price": "149",
+    "product_org_price": "169",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/shouhuan4/",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.9&pid=9997"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1968"),
+    "img_url": ["http://localhost:2003/uploads/goods/3accd497afc0047cfbd40f442e3b17df.jpg"],
+    "product_id": 12274,
+    "product_name": "米家智能窗帘",
+    "product_brief": "窗帘开合随心控",
+    "product_price": "799",
+    "product_org_price": "799",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=12274",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=product&page=homepage&pid=12274&page_id=10530&bid=3480939.10"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc196b"),
+    "img_url": ["http://localhost:2003/uploads/goods/550177d2e54387521bce9e78cb2949dd.jpg"],
+    "product_id": 9686,
+    "product_name": "小米体脂秤2",
+    "product_brief": "轻松掌握身体脂肪率",
+    "product_price": "99",
+    "product_org_price": "99",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9686",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=product&page=homepage&pid=9686&page_id=10530&bid=3480939.11"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc196e"),
+    "img_url": ["http://localhost:2003/uploads/goods/2f33baec53cc73e2942277640ba6e710.jpg"],
+    "product_id": 9120,
+    "product_name": "米家智能门锁 标准锁体 碳素黑",
+    "product_brief": "一体化活体指纹识别，多种开锁方式",
+    "product_price": "1299",
+    "product_org_price": "1299",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9120",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=product&page=homepage&pid=9120&page_id=10530&bid=3480939.13"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1971"),
+    "img_url": ["http://localhost:2003/uploads/goods/1840f64ea310ca8013385885baaf16a8.jpg"],
+    "product_id": 10303,
+    "product_name": "米家智能门锁 标准锁体 磨砂金",
+    "product_brief": "全新磨砂金配色，精湛工艺升级",
+    "product_price": "1499",
+    "product_org_price": "1499",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10303",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=10303&page_id=10530&bid=3480939.14"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1974"),
+    "img_url": ["http://localhost:2003/uploads/goods/0baacf6e54cbf89cab2c543cc02344e9.jpg"],
+    "product_id": 10025,
+    "product_name": "米家智能门锁 推拉式 通用版",
+    "product_brief": "一步推拉，高端智能门锁",
+    "product_price": "1699",
+    "product_org_price": "1699",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10025",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=10025&page_id=10530&bid=3480939.15"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1977"),
+    "img_url": ["http://localhost:2003/uploads/goods/0245498a0e08b87ba8c323871c5d48bc.jpg"],
+    "product_id": 10345,
+    "product_name": "米家智能门锁 青春版",
+    "product_brief": "隐形指纹识别设计 简单一步快进家门",
+    "product_price": "999",
+    "product_org_price": "999",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10345",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=product&page=homepage&pid=10345&page_id=10530&bid=3480939.16"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc197a"),
+    "img_url": ["http://localhost:2003/uploads/goods/e83e1ab5947337d7b631e056b3e0f23d.jpg"],
+    "product_id": 9850,
+    "product_name": "米家智能门锁 霸王锁体 碳素黑",
+    "product_brief": "一体化活体指纹识别，多种开锁方式",
+    "product_price": "1599",
+    "product_org_price": "1599",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/mj-smartlock-bawang",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.17&pid=9850"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc197d"),
+    "img_url": ["http://localhost:2003/uploads/goods/fa7cdb455f106da904e8c3f6156abc06.jpg"],
+    "product_id": 10304,
+    "product_name": "米家智能门锁 霸王锁体 磨砂金",
+    "product_brief": "适配霸王锁体，多种开锁方式",
+    "product_price": "1799",
+    "product_org_price": "1799",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/mj-smartlock-bawang",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.18&pid=10304"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1980"),
+    "img_url": ["https://i8.mifile.cn/b2c-mimall-media/98c51f977ac5b590dbaf7b8445b30fa6.jpg"],
+    "product_id": 8835,
+    "product_name": "小米米家小白智能摄像机增强版",
+    "product_brief": "智能看护， AI你所爱",
+    "product_price": "399",
+    "product_org_price": "399",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=8835",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=product&page=homepage&pid=8835&page_id=10530&bid=3480939.19"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1983"),
+    "img_url": ["https://i8.mifile.cn/b2c-mimall-media/5a94a17f3e893d9804ede3b06e894460.jpg"],
+    "product_id": 8026,
+    "product_name": "小米米家智能摄像机云台版",
+    "product_brief": "高清画质，守护家的每一面",
+    "product_price": "189",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/camera-360/",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.20&pid=8026"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1986"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/768992ca-4136-92f1-244a-0194a81a6360.jpg"],
+    "product_id": 4984,
+    "product_name": "小米米家电动滑板车",
+    "product_brief": "便携折叠，自由穿行",
+    "product_price": "1999",
+    "product_org_price": "1999",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/scooter2/",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.22&pid=4984"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1989"),
+    "img_url": ["https://i8.mifile.cn/b2c-mimall-media/18a82e7cda6ecbc22ecee7ac927d6ff9.jpg"],
+    "product_id": 9029,
+    "product_name": "米兔折叠婴儿推车",
+    "product_brief": "出发去向往的地方",
+    "product_price": "649",
+    "product_org_price": "699",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/babyfoldingcar/",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.23&pid=9029"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc198c"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/877d3ce8-68ab-7506-2a78-55a8c0fba946.png"],
+    "product_id": 6079,
+    "product_name": "九号平衡车 Plus",
+    "product_brief": "一个形影不离的新伙伴",
+    "product_price": "3199",
+    "product_org_price": "3499",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/scooterplus/",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=webview&page=homepage&page_id=10530&bid=3480939.24&pid=6079"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc198f"),
+    "img_url": ["http://localhost:2003/uploads/goods/0294e2f3997bf0cffb7bf48361d03588.jpg"],
+    "product_id": 9613,
+    "product_name": "米家充气宝",
+    "product_brief": "便携电动打气筒",
+    "product_price": "199",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9613",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=product&page=homepage&pid=9613&page_id=10530&bid=3480939.25"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1992"),
+    "img_url": ["http://localhost:2003/uploads/goods/12fe0ea5e8dafecce5ffa65108796683.jpg"],
+    "product_id": 11674,
+    "product_name": "小米小背包",
+    "product_brief": "城市休闲，简约设计",
+    "product_price": "24.9",
+    "product_org_price": "24.9",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11674",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=product&page=homepage&pid=11674&page_id=10530&bid=3480939.26"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1995"),
+    "img_url": ["http://localhost:2003/uploads/goods/5b4304d0e62a9c874e83eba0649110ee.jpg"],
+    "product_id": 9560,
+    "product_name": "小米旅行箱 青春款",
+    "product_brief": "环保材料，轻便重量",
+    "product_price": "199",
+    "product_org_price": "199",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9560",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=product&page=homepage&pid=9560&page_id=10530&bid=3480939.27"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1998"),
+    "img_url": ["http://localhost:2003/uploads/goods/3520b7c57449585bc3185d31b9d9bd08.jpg"],
+    "product_id": 11368,
+    "product_name": "骑记电动助力自行车 新国标版 黑色",
+    "product_brief": "更多助力选择，更多城市风景",
+    "product_price": "2799",
+    "product_org_price": "2999",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11368",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=product&page=homepage&pid=11368&page_id=10530&bid=3480939.28"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc199b"),
+    "img_url": ["http://localhost:2003/uploads/goods/d86c1eb8f5525bc4c76c8e0e98db7446.jpg"],
+    "product_id": 9550,
+    "product_name": "小米米家对讲机2",
+    "product_brief": "向更远出发",
+    "product_price": "449",
+    "product_org_price": "449",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9550",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=product&page=homepage&pid=9550&page_id=10530&bid=3480939.29"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc199e"),
+    "img_url": ["http://localhost:2003/uploads/goods/50649d7b5706f4cd9f658e93db6b6564.jpg"],
+    "product_id": 10859,
+    "product_name": "小米真无线蓝牙耳机 Air 2",
+    "product_brief": "智能真无线，轻松舒适戴",
+    "product_price": "299",
+    "product_org_price": "399",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10859",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=product&page=homepage&pid=10859&page_id=10530&bid=3480944.4"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19a1"),
+    "img_url": ["http://localhost:2003/uploads/goods/9eb0178e3bfeb7d170edd641fb4be4bc.jpg"],
+    "product_id": 9311,
+    "product_name": "高速无线充套装",
+    "product_brief": "快速无线闪充，Qi充电标准",
+    "product_price": "149",
+    "product_org_price": "149",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9311",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=9311&page_id=10530&bid=3480944.5"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19a4"),
+    "img_url": ["http://localhost:2003/uploads/goods/ea8e42faebf7d76a4cb42b8930cf9e46.jpg"],
+    "product_id": 10317,
+    "product_name": "Redmi充电宝 10000mAh 标准版 白色",
+    "product_brief": "10000mAh大电量 ",
+    "product_price": "59",
+    "product_org_price": "59",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10317",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=10317&page_id=10530&bid=3480944.6"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19a7"),
+    "img_url": ["http://localhost:2003/uploads/goods/eaf70e0e9905de6452f07b1f48fcc386.jpg"],
+    "product_id": 10318,
+    "product_name": "Redmi充电宝 20000mAh 快充版",
+    "product_brief": "大容量，\t可上飞机 ",
+    "product_price": "99",
+    "product_org_price": "99",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10318",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=product&page=homepage&pid=10318&page_id=10530&bid=3480944.7"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19aa"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/5dd69c0a-8f4a-b42f-d840-6c5a47f2cd03.jpg"],
+    "product_id": 5857,
+    "product_name": "小米插线板 5孔位",
+    "product_brief": "多重安全保护",
+    "product_price": "39",
+    "product_org_price": "39",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=5857",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=product&page=homepage&pid=5857&page_id=10530&bid=3480944.8"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19ad"),
+    "img_url": ["https://i8.mifile.cn/b2c-mimall-media/92af1f21293fabfbf2a112892b864925.jpg"],
+    "product_id": 9016,
+    "product_name": "小米蓝牙耳机AirDots青春版",
+    "product_brief": "雅致简约，收纳充电盒",
+    "product_price": "169",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9016",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=product&page=homepage&pid=9016&page_id=10530&bid=3480944.9"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19b0"),
+    "img_url": ["http://localhost:2003/uploads/goods/9946e252a7c49662376c056ced004a20.jpg"],
+    "product_id": 9334,
+    "product_name": "小米小爱触屏音箱",
+    "product_brief": "好听，更好看",
+    "product_price": "199",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/aispeaker-touch/",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=webview&page=homepage&page_id=10530&bid=3480944.10&pid=9334"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19b3"),
+    "img_url": ["http://localhost:2003/uploads/goods/601d1ac94ca155a59a813bff1045e8b3.jpg"],
+    "product_id": 12090,
+    "product_name": "小米无线车充通用快充版",
+    "product_brief": "通用快充",
+    "product_price": "129",
+    "product_org_price": "129",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=12090",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=product&page=homepage&pid=12090&page_id=10530&bid=3480944.11"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19b6"),
+    "img_url": ["http://localhost:2003/uploads/goods/50649d7b5706f4cd9f658e93db6b6564.jpg"],
+    "product_id": 10859,
+    "product_name": "小米真无线蓝牙耳机 Air 2",
+    "product_brief": "智能真无线，轻松舒适戴",
+    "product_price": "299",
+    "product_org_price": "399",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10859",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=product&page=homepage&pid=10859&page_id=10530&bid=3480944.13"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19b9"),
+    "img_url": ["http://localhost:2003/uploads/goods/faf8668acb2fd80c0afad4d4c4e837ad.jpg"],
+    "product_id": 10316,
+    "product_name": "小米降噪项圈蓝牙耳机",
+    "product_brief": "无线降噪，静无止境",
+    "product_price": "399",
+    "product_org_price": "499",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10316",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=10316&page_id=10530&bid=3480944.14"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19bc"),
+    "img_url": ["https://i8.mifile.cn/b2c-mimall-media/92af1f21293fabfbf2a112892b864925.jpg"],
+    "product_id": 9016,
+    "product_name": "小米蓝牙耳机AirDots青春版",
+    "product_brief": "雅致简约，收纳充电盒",
+    "product_price": "169",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9016",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=9016&page_id=10530&bid=3480944.15"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19bf"),
+    "img_url": ["http://localhost:2003/uploads/goods/8b619d27877bbc497468c673a317a847.jpg"],
+    "product_id": 10745,
+    "product_name": "小米小爱音箱 Pro",
+    "product_brief": "语音遥控5000+品牌主流家电",
+    "product_price": "299",
+    "product_org_price": "299",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10745",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=product&page=homepage&pid=10745&page_id=10530&bid=3480944.16"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19c2"),
+    "img_url": ["http://localhost:2003/uploads/goods/e6a35e4dfff70f4195b29e8008716d82.jpg"],
+    "product_id": 8585,
+    "product_name": "小米运动蓝牙耳机青春版",
+    "product_brief": "音随你动",
+    "product_price": "99",
+    "product_org_price": "99",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=8585",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=product&page=homepage&pid=8585&page_id=10530&bid=3480944.17"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19c5"),
+    "img_url": ["https://i8.mifile.cn/b2c-mimall-media/838ba427ef55317d8c4911b02c95bb79.jpg"],
+    "product_id": 7840,
+    "product_name": "小米蓝牙项圈耳机\t",
+    "product_brief": "挂在脖子上的好耳机",
+    "product_price": "249",
+    "product_org_price": "299",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/bluetooth-collar/",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=webview&page=homepage&page_id=10530&bid=3480944.18&pid=7840"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19c8"),
+    "img_url": ["https://i8.mifile.cn/b2c-mimall-media/ddf317f34e47eed06d910ee0ffd6b2fc.jpg"],
+    "product_id": 7817,
+    "product_name": "小米双单元半入耳式耳机",
+    "product_brief": "半入耳式舒适佩戴",
+    "product_price": "59",
+    "product_org_price": "69",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/half-in-ear/",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=webview&page=homepage&page_id=10530&bid=3480944.19&pid=7817"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19cb"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/T1hVY_BTdv1RXrhCrK.jpg"],
+    "product_id": 3331,
+    "product_name": "小米随身蓝牙音箱",
+    "product_brief": "全金属外壳，内置麦克风",
+    "product_price": "69",
+    "product_org_price": "69",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/littleaudio/",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=webview&page=homepage&page_id=10530&bid=3480944.20&pid=3331"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19ce"),
+    "img_url": ["http://localhost:2003/uploads/goods/9eb0178e3bfeb7d170edd641fb4be4bc.jpg"],
+    "product_id": 9311,
+    "product_name": "高速无线充套装",
+    "product_brief": "快速无线闪充，Qi充电标准",
+    "product_price": "149",
+    "product_org_price": "149",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9311",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=product&page=homepage&pid=9311&page_id=10530&bid=3480946.4"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19d1"),
+    "img_url": ["http://localhost:2003/uploads/goods/1f32af53d1ad60f4980146f6a2b81019.jpg"],
+    "product_id": 10721,
+    "product_name": "小米无线充电宝青春版10000mAh",
+    "product_brief": "能量满满，无线有线都能充",
+    "product_price": "129",
+    "product_org_price": "129",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10721",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=10721&page_id=10530&bid=3480946.5"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19d4"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/b0ded71f-b235-8f99-ba1c-20f80c3a4231.jpg"],
+    "product_id": 4053,
+    "product_name": "米家LED随身灯",
+    "product_brief": "小巧轻便 5级亮度调节",
+    "product_price": "19.9",
+    "product_org_price": "19.9",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=4053",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=4053&page_id=10530&bid=3480946.6"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19d7"),
+    "img_url": ["http://localhost:2003/uploads/goods/f8fde8a877fd4b12ad88119d9b6bc061.jpg"],
+    "product_id": 11543,
+    "product_name": "小米GaN充电器 Type-C 65W ",
+    "product_brief": "氮化镓黑科技 65W MAX 大功率快充",
+    "product_price": "149",
+    "product_org_price": "149",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11543",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=product&page=homepage&pid=11543&page_id=10530&bid=3480946.7"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19da"),
+    "img_url": ["http://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/553e9c2b-0023-e9a7-3bdb-26ec66a4007c.jpg"],
+    "product_id": 4998,
+    "product_name": "移动电源高配版（10000mAh）",
+    "product_brief": " 轻薄设计，轻松出行",
+    "product_price": "149",
+    "product_org_price": "149",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/batterytwins/",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=webview&page=homepage&page_id=10530&bid=3480946.8&pid=4998"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19dd"),
+    "img_url": ["http://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/287594eb-b765-8db1-3255-0a05c4c07440.jpg"],
+    "product_id": 4944,
+    "product_name": "小米二合一数据线100cm",
+    "product_brief": "支持快充，安全保护",
+    "product_price": "24.9",
+    "product_org_price": "24.9",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=4944",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=product&page=homepage&pid=4944&page_id=10530&bid=3480946.9"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19e0"),
+    "img_url": ["http://localhost:2003/uploads/goods/50649d7b5706f4cd9f658e93db6b6564.jpg"],
+    "product_id": 10859,
+    "product_name": "小米真无线蓝牙耳机 Air 2",
+    "product_brief": "智能真无线，轻松舒适戴",
+    "product_price": "299",
+    "product_org_price": "399",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10859",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=product&page=homepage&pid=10859&page_id=10530&bid=3480946.10"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19e3"),
+    "img_url": ["http://localhost:2003/uploads/goods/6c19fad90ad73f91e13c97cce2b15d82.jpg"],
+    "product_id": 9355,
+    "product_name": "小米9 SE 街头风保护壳",
+    "product_brief": "简约时尚，多彩三色",
+    "product_price": "49",
+    "product_org_price": "49",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9355",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=product&page=homepage&pid=9355&page_id=10530&bid=3480946.11"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19e6"),
+    "img_url": ["http://localhost:2003/uploads/goods/971da2015fe533acebbca413f88084ab.jpg"],
+    "product_id": 12176,
+    "product_name": "小米Type-C充电器65W 疾速闪充版",
+    "product_brief": "疾速闪充",
+    "product_price": "99",
+    "product_org_price": "99",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=12176",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=product&page=homepage&pid=12176&page_id=10530&bid=3480946.13"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19e9"),
+    "img_url": ["http://localhost:2003/uploads/goods/f8fde8a877fd4b12ad88119d9b6bc061.jpg"],
+    "product_id": 11543,
+    "product_name": "小米GaN充电器 Type-C 65W ",
+    "product_brief": "氮化镓黑科技 65W MAX 大功率快充",
+    "product_price": "149",
+    "product_org_price": "149",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11543",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=11543&page_id=10530&bid=3480946.14"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19ec"),
+    "img_url": ["http://localhost:2003/uploads/goods/15ac53312f850bfcc73bdc5a185fda8a.jpg"],
+    "product_id": 10860,
+    "product_name": "小米立式风冷无线充 30W ",
+    "product_brief": "解锁充电新姿势",
+    "product_price": "199",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10860",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=10860&page_id=10530&bid=3480946.15"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19ef"),
+    "img_url": ["http://localhost:2003/uploads/goods/bb115b0d5e6cc24c39c1ae818b63bf1a.jpg"],
+    "product_id": 11226,
+    "product_name": "小米立式无线充电器 通用快充20W",
+    "product_brief": "横竖可充，迅速感应边充边玩",
+    "product_price": "99",
+    "product_org_price": "99",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11226",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=product&page=homepage&pid=11226&page_id=10530&bid=3480946.16"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19f2"),
+    "img_url": ["http://localhost:2003/uploads/goods/69167d20371cb65e58ad792494d5bf63.jpg"],
+    "product_id": 11483,
+    "product_name": "小米无线充电器（通用快充）",
+    "product_brief": "铝合金外观，金属质感好",
+    "product_price": "69",
+    "product_org_price": "69",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11483",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=product&page=homepage&pid=11483&page_id=10530&bid=3480946.17"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19f5"),
+    "img_url": ["http://localhost:2003/uploads/goods/c85b67f1c4f5e460a4be5cea5858264b.jpg"],
+    "product_id": 11384,
+    "product_name": "米家智能插座蓝牙网关版",
+    "product_brief": "让传统家电变智能",
+    "product_price": "79",
+    "product_org_price": "79",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11384",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=product&page=homepage&pid=11384&page_id=10530&bid=3480946.18"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19f8"),
+    "img_url": ["http://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/554198af-55ec-8400-7a04-66a8f3e0dd66.jpg"],
+    "product_id": 4888,
+    "product_name": "米家插线板6位基础版（含3口USB 2A快充）",
+    "product_brief": "小巧设计，便捷不占地儿",
+    "product_price": "79",
+    "product_org_price": "79",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/powerstrip6/",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=webview&page=homepage&page_id=10530&bid=3480946.19&pid=4888"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19fb"),
+    "img_url": ["https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d6484113b03acde1672d50c395c09763.jpg"],
+    "product_id": 7805,
+    "product_name": "小米插线板（含3口USB 2A快充）",
+    "product_brief": "3个USB充电口，支持快充",
+    "product_price": "49",
+    "product_org_price": "49",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/powerstrip/",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=webview&page=homepage&page_id=10530&bid=3480946.20&pid=7805"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc19fe"),
+    "img_url": ["http://localhost:2003/uploads/goods/cccac948e1b8ffb47f1fecde67692e60.jpg"],
+    "product_id": 9732,
+    "product_name": "米家飞行员太阳镜 Pro",
+    "product_brief": "尼龙偏光，轻巧佩戴",
+    "product_price": "199",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9732",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=product&page=homepage&pid=9732&page_id=10530&bid=3480948.4"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a01"),
+    "img_url": ["http://localhost:2003/uploads/goods/57433a4b991b2a2ddc889f2d8d434655.jpg"],
+    "product_id": 9836,
+    "product_name": "小米巨能写中性笔10支装",
+    "product_brief": "一支顶4支，超长顺滑书写",
+    "product_price": "9.99",
+    "product_org_price": "9.99",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9836",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=9836&page_id=10530&bid=3480948.5"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a04"),
+    "img_url": ["http://localhost:2003/uploads/goods/03d94ee6059481a6adcb6c4c5c572fb4.jpg"],
+    "product_id": 10480,
+    "product_name": "米家迷你保温杯",
+    "product_brief": "可以随身携带的温度",
+    "product_price": "49",
+    "product_org_price": "49",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10480",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=10480&page_id=10530&bid=3480948.6"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a07"),
+    "img_url": ["http://localhost:2003/uploads/goods/41e6890f9d6b7fdb4275c986dc3644e8.jpg"],
+    "product_id": 9723,
+    "product_name": "米家驱蚊器基础版 3个装",
+    "product_brief": "3个装 长效驱蚊",
+    "product_price": "64.5",
+    "product_org_price": "129",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9723",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=product&page=homepage&pid=9723&page_id=10530&bid=3480948.7"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a0a"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/413f5e2f-53e7-0879-119c-8b4466feea53.jpg"],
+    "product_id": 6443,
+    "product_name": "贝医生巴氏牙刷 四色装",
+    "product_brief": "进口刷毛，好品质",
+    "product_price": "39.9",
+    "product_org_price": "39.9",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/toothbrush-set/",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=webview&page=homepage&page_id=10530&bid=3480948.8&pid=6443"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a0d"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/eaa7c8e5-2a8c-0d2c-6de7-a6db2068b192.jpg"],
+    "product_id": 6512,
+    "product_name": "8H 乳胶弹簧静音床垫 M3",
+    "product_brief": "健康每一处  床垫会呼吸",
+    "product_price": "1599",
+    "product_org_price": "1599",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=6512",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=product&page=homepage&pid=6512&page_id=10530&bid=3480948.9"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a10"),
+    "img_url": ["http://localhost:2003/uploads/goods/d3f217393625879fb2e29a86bb49c569.jpg"],
+    "product_id": 12639,
+    "product_name": "米家负离子速干吹风机 H300",
+    "product_brief": "小巧精悍，速干小超人",
+    "product_price": "149",
+    "product_org_price": "149",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=12639",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=product&page=homepage&pid=12639&page_id=10530&bid=3480948.10"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a13"),
+    "img_url": ["http://localhost:2003/uploads/goods/d0b1119165c481376399aab53330e015.jpg"],
+    "product_id": 11874,
+    "product_name": "米家运动鞋4",
+    "product_brief": "轻盈若絮,弹若脱兔",
+    "product_price": "199",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=11874",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=product&page=homepage&pid=11874&page_id=10530&bid=3480948.11"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a16"),
+    "img_url": ["http://localhost:2003/uploads/goods/d26d3a80dd1ab0c6a657f13cb234dade.jpg"],
+    "product_id": 10000147,
+    "product_name": "90分框体旅行箱",
+    "product_brief": "专利轻量合金中框，轻盈坚固 ",
+    "product_price": "399",
+    "product_org_price": "599",
+    "show_price_qi": true,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10000147",
+        "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=product&page=homepage&pid=10000147&page_id=10530&bid=3480948.13"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a19"),
+    "img_url": ["http://localhost:2003/uploads/goods/47ecc65d37065fde1e71b1b34326e741.jpg"],
+    "product_id": 10181,
+    "product_name": "小米商旅多功能双肩包 2",
+    "product_brief": "商务旅行多场景，切换无压力",
+    "product_price": "179",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=10181",
+        "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=10181&page_id=10530&bid=3480948.14"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a1c"),
+    "img_url": ["http://localhost:2003/uploads/goods/cccac948e1b8ffb47f1fecde67692e60.jpg"],
+    "product_id": 9732,
+    "product_name": "米家飞行员太阳镜 Pro",
+    "product_brief": "尼龙偏光，轻巧佩戴",
+    "product_price": "199",
+    "product_org_price": "199",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9732",
+        "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=9732&page_id=10530&bid=3480948.15"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a1f"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/43549b8e-c8cd-0464-17ba-6be26f395ef0.jpg"],
+    "product_id": 6124,
+    "product_name": "自动折叠伞",
+    "product_brief": "防泼水伞布，轻盈拒水",
+    "product_price": "99",
+    "product_org_price": "99",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/umbrella/",
+        "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=webview&page=homepage&page_id=10530&bid=3480948.16&pid=6124"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a22"),
+    "img_url": ["https://i8.mifile.cn/b2c-mimall-media/1f4c867b5ccb878b43054f640636c872.jpg"],
+    "product_id": 4917,
+    "product_name": "最生活毛巾•青春系列",
+    "product_brief": "3秒吸水，杀菌无刺激",
+    "product_price": "19.9",
+    "product_org_price": "19.9",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=4917",
+        "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=product&page=homepage&pid=4917&page_id=10530&bid=3480948.17"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a25"),
+    "img_url": ["http://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK.jpg"],
+    "product_id": 2774,
+    "product_name": "九号平衡车",
+    "product_brief": "年轻人的酷玩具",
+    "product_price": "1899",
+    "product_org_price": "1999",
+    "show_price_qi": false,
+    "action": {
+        "type": "url",
+        "path": "https://www.mi.com/scooter/",
+        "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=webview&page=homepage&page_id=10530&bid=3480948.18&pid=2774"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a28"),
+    "img_url": ["http://localhost:2003/uploads/goods/aabf1a475043266cf4759ec58d0f679c.jpg"],
+    "product_id": 9285,
+    "product_name": "小米米家电动滑板车Pro",
+    "product_brief": "性能提升，动力更强劲",
+    "product_price": "2699",
+    "product_org_price": "2799",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9285",
+        "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=product&page=homepage&pid=9285&page_id=10530&bid=3480948.19"
+    }
+}
+
+
+{
+    "_id": ObjectId("5f3f812d0aa5c27443bc1a2b"),
+    "img_url": ["http://localhost:2003/uploads/goods/c9871569c0b49b769bd74f5cce81e45a.jpg"],
+    "product_id": 9729,
+    "product_name": "米家经典方框太阳镜",
+    "product_brief": "复古设计，偏光自修复",
+    "product_price": "99",
+    "product_org_price": "99",
+    "show_price_qi": false,
+    "action": {
+        "type": "product",
+        "path": "https://www.mi.com/buy?product_id=9729",
+        "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=product&page=homepage&pid=9729&page_id=10530&bid=3480948.20"
+    }
+}

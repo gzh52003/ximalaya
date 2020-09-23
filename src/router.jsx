@@ -46,12 +46,12 @@ import Admin from "./pages/Admin"
 export default function ReRouter() {
     return (
         <Switch>
-            <Route path="/home" component={Home} />
-            <Route path="/tom" component={TOM} />
-            <Route path="/bill" component={Bill} />
-            <Route path="/alex" component={Alex} />
-            <Route path="/user" component={User} />
-            <Route path="/admin" component={Admin} />
+            <Route path="/home" component={Home} exact />
+            <Route path="/home/tom" component={TOM} />
+            <Route path="/home/bill" component={Bill} />
+            <Route path="home//alex" component={Alex} />
+            <Route path="/home/user" component={User} />
+            <Route path="/home/admin" component={Admin} />
             <Redirect to="/home" from="/" exact />
         </Switch>
     )

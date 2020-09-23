@@ -1,0 +1,28 @@
+ body {
+   height: 100%;
+   background: url('bg1.jpg') no-repeat center/100%;
+   //  padding-top: 150px;
+   font-family: '微软雅黑';
+   overflow: hidden;
+ }
+
+ .login-form {
+   max-width: 500px;
+   padding: 80px;
+   margin: 150px auto;
+   background-color: rgba($color: #ccc, $alpha: .5);
+   border-radius: 20px;
+
+ }
+
+ .login-form-forgot {
+   float: right;
+ }
+
+ .ant-col-rtl .login-form-forgot {
+   float: left;
+ }
+
+ .login-form-button {
+   width: 100%;
+ }
