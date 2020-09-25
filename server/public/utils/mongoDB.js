@@ -76,13 +76,14 @@ async function update(colName, query, newData) { // newData 需要改成的数�
         db,
         client
     } = await connect();
+    // console.log(query._id)
+    if (query._id && typeof query._id === 'string') {
+        query._id = ObjectId(query._id);
+    }
 
     const collection = db.collection(colName);
 
     //传的参数中有 _id 且为字符串时， 转化成 id 形式
-    if (query._id && typeof query._id === 'string') {
-        query._id = ObjectId(query._id);
-    }
 
     const result = await collection.updateMany(query, newData);
 

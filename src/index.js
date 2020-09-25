@@ -16,15 +16,18 @@ function Home() {
       {/* <IndexPage></IndexPage> */}
     </Router>
   )
-  let store = createStore(reducer);
-
-  /*
-    引入 createStore 函数 将 写好的 reducer 作为参数传入
-    生成一个仓库  store , 在使用 Provider 组件将跟组件包裹
-    注入全局的 context 实现状态提升
-  
-  */
 }
+
+
+let store = createStore(reducer);
+
+/*
+  引入 createStore 函数 将 写好的 reducer 作为参数传入
+  生成一个仓库  store , 在使用 Provider 组件将跟组件包裹
+  注入全局的 context 实现状态提升
+ 
+*/
+
 ReactDOM.render(
   <Provider store={store}>
     <Home />

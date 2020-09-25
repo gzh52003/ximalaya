@@ -32,7 +32,11 @@ export default function index() {
                     <Menu.Item key="2"><Link to="/home/bill" replace>Bill</Link></Menu.Item>
                     <Menu.Item key="3"><Link to="/home/alex" replace>Alex</Link></Menu.Item>
                 </SubMenu>
-                <SubMenu key="sub2" icon={<CreditCardOutlined />} title="订单管理">
+                <SubMenu key="sub2" icon={<DollarOutlined />} title="用户管理">
+                    <Menu.Item key="1"><Link to="/home/userList" replace>用户列表</Link></Menu.Item>
+                    <Menu.Item key="2"><Link to="/home/adduser" replace>添加用户</Link></Menu.Item>
+                </SubMenu>
+                <SubMenu key="sub3" icon={<CreditCardOutlined />} title="订单管理">
                     <Menu.Item key="4">Tom1</Menu.Item>
                     <Menu.Item key="5">Bill2</Menu.Item>
                     <Menu.Item key="6">Alex3</Menu.Item>

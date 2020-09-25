@@ -12,30 +12,41 @@ const ConfigRouter = [
         component: Home
     },
     {
-        path: "home/tom",
+        path: "/home/tom",
         name: "tom",
         component: lazy(() => import("./pages/TOM"))
     },
     {
-        path: "home/bill",
+        path: "/home/bill",
         name: "bill",
         component: lazy(() => import("./pages/Bill"))
     },
     {
-        path: "home/alex",
+        path: "/home/alex",
         name: "alex",
         component: lazy(() => import("./pages/Alex"))
     },
+
     {
-        path: "home/user",
-        name: "user",
-        component: lazy(() => import("./pages/User"))
-    },
-    {
-        path: "home/admin",
+        path: "/home/admin",
         name: "admin",
         component: lazy(() => import("./pages/Admin"))
-    }
+    },
+    {
+        path: "/home/userList",
+        name: "userList",
+        component: lazy(() => import("./pages/User/UserList"))
+    },
+    {
+        path: "/home/Edit/:id",
+        name: "userEdit",
+        component: lazy(() => import("./pages/User/Edit"))
+    },
+    {
+        path: "/home/adduser/",
+        name: "user",
+        component: lazy(() => import("./pages/User/Edit"))
+    },
 ]
 
 
@@ -47,7 +58,7 @@ export default function ReRouter() {
             <Switch>
                 {
                     ConfigRouter.map(({ path, name, component }) => (
-                        <Route path={path} component={component} key={name} />
+                        <Route path={path} component={component} key={name} exact={path === '/home' ? true : false} />
                     ))
                 }
                 <Redirect to="/home" from="/" exact />
