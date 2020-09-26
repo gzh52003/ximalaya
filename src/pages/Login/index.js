@@ -48,7 +48,7 @@ class Login extends React.Component {
                 password,
                 vcode,
                 checked } = values
-            console.log('Success:', values);
+            // console.log('Success:', values);
             // console.log(request)
             const { data } = await request.post('/login', {
 
@@ -59,10 +59,10 @@ class Login extends React.Component {
                 checked,
 
             })
-            console.log(data)
-            if (data.code == 10) {
+            // console.log(data)
+            if (data.code === 10) {
                 this.info({ title: "验证码错误", context: '请输入正确的验证码' })
-            } else if (data.code == 0) {
+            } else if (data.code === 0) {
                 this.info({ title: "用户名或密码错误", context: '请输入正确的用户密码' })
             } else if (data.code === 1) {
                 // console.log(this)
