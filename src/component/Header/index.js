@@ -1,7 +1,7 @@
 import React from 'react'
 import { Row, Col, Button } from 'antd';
 import { withRouter } from 'react-router-dom';
-import User from './User'
+import "./index.scss";
 
 export default class Index extends React.Component {
     gotoPage = ({ key }) => {
@@ -27,7 +27,8 @@ export default class Index extends React.Component {
         return (
 
             <div>
-                <div className="logo" />
+                <div className="logo">
+                </div>
                 <Row style={{ backgroundColor: '#001529' }}>
                     <Col span={24} style={{ textAlign: 'right', lineHeight: '64px' }}>
                         {

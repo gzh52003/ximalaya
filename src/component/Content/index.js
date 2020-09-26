@@ -13,10 +13,8 @@ export default function index() {
                 <Breadcrumb.Item>List</Breadcrumb.Item>
                 <Breadcrumb.Item>App</Breadcrumb.Item>
             </Breadcrumb>
-            <Content
-                className="site-layout-background"
-                style={{
-                    padding: 24,
+            <Content style={{
+                    padding:0,
                     margin: 0,
                     minHeight: 280,
                 }}

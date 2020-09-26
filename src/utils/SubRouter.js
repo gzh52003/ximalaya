@@ -6,6 +6,6 @@ export default function SubRouter(props) {
     const {path, component } = props;
     console.log(props,component);
     return (
-        <Route path={path} component={component}/>
+        <Route path={path} component={component} exact />
     )
 }

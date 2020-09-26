@@ -2,7 +2,13 @@ import React, { Suspense, lazy } from 'react';
 import { Redirect, Route, Switch } from "react-router-dom";
 import { Spin } from 'antd';
 import "./router.scss";
+
 import Home from "./pages/Home"
+let Tom = lazy(() => import("./pages/TOM"))
+let Bill = lazy(() => import("./pages/Bill"))
+let Alex = lazy(() => import("./pages/Alex"))
+
+
 
 
 const ConfigRouter = [
@@ -14,17 +20,20 @@ const ConfigRouter = [
     {
         path: "/home/tom",
         name: "tom",
-        component: lazy(() => import("./pages/TOM"))
+        // component: lazy(() => import("./pages/TOM"))
+        component: Tom
     },
     {
         path: "/home/bill",
         name: "bill",
-        component: lazy(() => import("./pages/Bill"))
+        // component: lazy(() => import("./pages/Bill"))
+        component: Bill
     },
     {
         path: "/home/alex",
         name: "alex",
-        component: lazy(() => import("./pages/Alex"))
+        // component: lazy(() => import("./pages/Alex"))
+        component: Alex
     },
 
     {
@@ -46,9 +55,14 @@ const ConfigRouter = [
         path: "/home/adduser/",
         name: "user",
         component: lazy(() => import("./pages/User/Edit"))
-    },
+    }
 ]
 
+
+let authenticate = ()=> {
+    const token = localStorage.getItem("currentUser");
+    return token ? true : false;
+}
 
 export default function ReRouter() {
     return (
@@ -57,10 +71,17 @@ export default function ReRouter() {
             <Spin size="large" /></div>}>
             <Switch>
                 {
-                    ConfigRouter.map(({ path, name, component }) => (
-                        <Route path={path} component={component} key={name} exact={path === '/home' ? true : false} />
+                    ConfigRouter.map(({ path, name, component : Component }) => (
+                        <Route key={name} path={path} exact render ={props=> authenticate() ? <Component {...props} /> 
+                         : <Redirect to={{
+                            pathname: "/login",
+                            state: { from: props.location }
+                        }} />
+                    } /> 
                     ))
+                        /*<Route path={path} component={component} key={name} exact />*/ 
                 }
+                {/* 这个重定向必要的 */}
                 <Redirect to="/home" from="/" exact />
             </Switch>
         </Suspense>

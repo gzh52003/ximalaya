@@ -11,6 +11,7 @@
     "axios": "^0.20.0",
     "babel-plugin-import": "^1.13.0",
     "customize-cra": "^1.0.0",
+    "echarts": "^4.9.0",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "jsonwebtoken": "^8.5.1",

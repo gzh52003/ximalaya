@@ -20,12 +20,13 @@ export default function index() {
             onCollapse={(collapsed, type) => {
                 // console.log(collapsed, type);
             }}
+            style={{paddingTop:"0px"}}
         >
 
             <Menu theme="dark" mode="inline" defaultSelectedKeys={['home']}>
                 <Menu.Item key="home" icon={<HomeOutlined />}>
                     {/* replace 去警告 */}
-                    <Link to="/home" replace>我的管理</Link>
+                    <Link to="/home" replace>喜首页</Link>
                 </Menu.Item>
                 <SubMenu key="sub1" icon={<DollarOutlined />} title="收益系统">
                     <Menu.Item key="1"><Link to="/home/tom" replace>Tom</Link></Menu.Item>
