@@ -1,6 +1,7 @@
 import React from 'react'
 import { Row, Col, Button } from 'antd';
 import { withRouter } from 'react-router-dom';
+import User from './User';
 import "./index.scss";
 
 export default class Index extends React.Component {
@@ -21,9 +22,9 @@ export default class Index extends React.Component {
         })
     }
     render() {
-        const username = JSON.parse(localStorage.getItem('currentUser')).data.username
+        const username = localStorage.getItem('currentUser') ?  JSON.parse(localStorage.getItem('currentUser')).data.username : ""
         // const user = ''
-        console.log(username)
+        // console.log(username)
         return (
 
             <div>

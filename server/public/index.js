@@ -11,6 +11,7 @@ const userRouter = require("./user")
 const loginRouter = require("./login")
 const uploadRouter = require("./upload")
 const vcodeRouter = require("./vcode")
+const goodsRouter = require("./goods")
 const cors = require("./cors")
 
 // 跨域
@@ -62,5 +63,7 @@ router.get('/jwtverify', (req, res) => {
 
 // 验证码
 router.use('/vcode', vcodeRouter);
+// 数据列表
+router.use('/goods', goodsRouter);
 
 module.exports = router

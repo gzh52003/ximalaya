@@ -1,12 +1,12 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 
 import { FormOutlined, DeleteOutlined } from '@ant-design/icons';
 import Mycontext from './Mycontext'
-import { Table, Tag, Space, Button, Tooltip, Row, Col, Input } from 'antd';
-import { Pagination, message } from 'antd';
+import { Table,  Space, Button, Tooltip } from 'antd';
+import { message } from 'antd';
 import Sea from "./Sea"
 import request from '../../utils/request'
-import Search from 'antd/lib/input/Search';
+// import Search from 'antd/lib/input/Search';
 
 const columns = [
     {
@@ -88,7 +88,7 @@ class UserList extends React.Component {
         // console.log(page, size)
         const { data } = await request.get('/user', { params: { size, page } })
         // console.log(data)
-        if (data.code == 1) {
+        if (data.code === 1) {
             this.setState({
                 data: data.data.data,
                 total: data.data.total

@@ -1,5 +1,5 @@
 import React from "react"
-import { Form, Input, InputNumber, Button, message, Space } from 'antd';
+import { Form, Input,  Button, message } from 'antd';
 import request from '../../utils/request'
 const layout = {
     labelCol: { span: 4 },
