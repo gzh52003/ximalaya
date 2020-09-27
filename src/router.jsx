@@ -7,8 +7,7 @@ import Home from "./pages/Home"
 let Tom = lazy(() => import("./pages/TOM"))
 let Bill = lazy(() => import("./pages/Bill"))
 let Alex = lazy(() => import("./pages/Alex"))
-let User = lazy(() => import("./pages/User"))
-let Admin = lazy(() => import("./pages/Admin"))
+
 
 
 
@@ -36,17 +35,26 @@ const ConfigRouter = [
         // component: lazy(() => import("./pages/Alex"))
         component: Alex
     },
-    {
-        path: "/home/user",
-        name: "user",
-        // component: lazy(() => import("./pages/User"))
-        component: User
-    },
+
     {
         path: "/home/admin",
         name: "admin",
-        // component: lazy(() => import("./pages/Admin"))
-        component: Admin
+        component: lazy(() => import("./pages/Admin"))
+    },
+    {
+        path: "/home/userList",
+        name: "userList",
+        component: lazy(() => import("./pages/User/UserList"))
+    },
+    {
+        path: "/home/Edit/:id",
+        name: "userEdit",
+        component: lazy(() => import("./pages/User/Edit"))
+    },
+    {
+        path: "/home/adduser/",
+        name: "user",
+        component: lazy(() => import("./pages/User/Edit"))
     }
 ]
 

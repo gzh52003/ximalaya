@@ -17,6 +17,7 @@ router.get('/', async (req, res) => {
         size,
         _id,
     } = req.query
+    // console.log(req.query)
 
     if (_id) {
         // 查询该ID 的用户
@@ -59,6 +60,37 @@ router.get('/', async (req, res) => {
         }
     }
 })
+// 模糊搜索，返回匹配的列表
+router.get('/search', async (req, res) => {
+    let { values } = req.query
+    // 去掉 values 的首尾空格
+    values = values.trim()
+    // console.log(values)
+    // 正则表达式，用变量定义，每次执行时，都根据传的变量得到 正则表达式，
+    // 用正则表达式对库进行筛选
+    const reg = new RegExp(values, "ig") // 全局匹配，不区分大小写
+    try {
+        const data = await mongo.find('userList', {
+            username: reg
+        }, {
+
+            field: {
+                password: false // 不返回 password 字段数据
+            }
+        })
+        // console.log(data)
+        res.send(sendDate({
+            data
+        }))
+    } catch (err) {
+        res.send(sendDate({
+            code: 0
+        }))
+    }
+
+})
+
+
 // 查找用户
 router.get('/checkname', async (req, res) => {
     const {
@@ -147,7 +179,7 @@ router.post('/', async (req, res) => {
         password = "",
         role = "",
         gender = "",
-        imgUrl = "uploads/haoge-1598500381948.jpg" //默认头像地址
+        // imgUrl = "uploads/haoge-1598500381948.jpg" //默认头像地址
     } = req.body
     try {
         const result = await mongo.insert('userList', {
@@ -155,7 +187,6 @@ router.post('/', async (req, res) => {
             password,
             role,
             gender,
-            imgUrl,
         })
         res.send(sendDate({}))
     } catch (err) {
@@ -169,7 +200,6 @@ router.put("/edit/:_id", async (req, res) => {
     const {
         _id,
     } = req.params
-    // console.log(_id)
     // 编辑用户信息，某条不做编辑时，输入框也是存在数据的，不会出现为空的问题？password在些不做更改
     const {
         username,
@@ -177,14 +207,17 @@ router.put("/edit/:_id", async (req, res) => {
         gender
     } = req.body
     // console.log(username, gender, role)
+    // console.log(req.body)
+
     const newdata = {
         username,
         role,
         gender
     }
+    // console.log("id=", _id)
     try {
         const result = await update('userList', {
-            username
+            _id
         }, {
             $set: newdata
         })
@@ -193,7 +226,9 @@ router.put("/edit/:_id", async (req, res) => {
                 ...newdata
             }
         }))
+        // console.log(result)
     } catch (err) {
+        console.log(err)
         res.send(sendDate({
             code: 0
         }))

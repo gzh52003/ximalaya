@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { PayCircleOutlined, CommentOutlined, ShoppingCartOutlined, SoundOutlined, FieldTimeOutlined } from '@ant-design/icons';
 import { Row, Col, Table } from 'antd';
+import request from '../../utils/request';
 // 引入 ECharts 主模块
 import echarts from 'echarts'
 // import echarts from 'echarts/lib/echarts';
@@ -67,57 +68,65 @@ const result = [
 const columns = [
     {
         title: '出品',
-        width: 120,
-        dataIndex: 'name',
+        width: 200,
+        dataIndex: 'anchor',
     },
     {
         title: '商品编号',
         width: 140,
         className: 'column-money',
-        dataIndex: 'money',
+        dataIndex: 'id',
         align: 'left',
     },
     {
+        title: '类型',
+        width: 140,
+        dataIndex: 'categoryName',
+    },
+    {
         title: '商品名称',
-        width: 600,
-        dataIndex: 'address',
+        width: 400,
+        dataIndex: 'title',
     },
     {
         title: '销售数量',
-        dataIndex: 'order',
+        dataIndex: 'includeTrackCount',
         sorter: {
-            compare: (a, b) => a.order - b.order,
+            compare: (a, b) => a.includeTrackCount - b.includeTrackCount,
             multiple: 1,
           },
     },
 ];
 // https://www.ximalaya.com/revision/play/v1/audio?id=46106992&ptype=1
 // https://www.ximalaya.com/revision/play/v1/audio?id=45982332&ptype=1
-const data = [
-    {
-        key: '1',
-        name: 'lijie',
-        money: '970507',
-        address: 'New York No. 1 Lake Park',
-        order: "21"
-    },
-    {
-        key: '2',
-        name: 'youyou',
-        money: '970507',
-        address: 'London No. 1 Lake Park',
-        order: "23"
-    },
-    {
-        key: '3',
-        name: '二傻',
-        money: '970507',
-        address: 'Sidney No. 1 Lake Park',
-        order: "25"
-    },
-];
+// const data = [
+//     {
+//         key: '1',
+//         name: 'lijie',
+//         money: '970507',
+//         address: 'New York No. 1 Lake Park',
+//         order: "21"
+//     },
+//     {
+//         key: '2',
+//         name: 'youyou',
+//         money: '970507',
+//         address: 'London No. 1 Lake Park',
+//         order: "23"
+//     },
+//     {
+//         key: '3',
+//         name: '二傻',
+//         money: '970507',
+//         address: 'Sidney No. 1 Lake Park',
+//         order: "25"
+//     },
+// ];
 
 export default class index extends Component {
+    state = {
+        data : null
+    }
 
     componentDidMount() {
         var myChart = echarts.init(this.store);
@@ -209,10 +218,18 @@ export default class index extends Component {
             ]
         });
        
-        
+        this.getResult();
+    }
+    
+    getResult = async ()=>{
+        const {data:{data : getState}} = await request.get('/goods')
+        this.setState({
+            data : getState
+        })
     }
 
     render() {
+        console.log(this.state.data)
         return (
             <div>
                 <section className="spacing">
@@ -236,7 +253,8 @@ export default class index extends Component {
                     <Col span={24}>
                         <Table
                             columns={columns}
-                            dataSource={data}
+                            rowKey={record => record._id}
+                            dataSource={this.state.data}
                             scroll={{ x: 1166, y: 300 }}
                             bordered
                             title={() => '商品销售排行'}
